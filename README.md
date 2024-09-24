@@ -1,0 +1,1 @@
+# plugins-woo-products-slider-pro
